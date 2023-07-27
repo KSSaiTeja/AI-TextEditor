@@ -1,0 +1,24 @@
+/* Change background color to black */
+.ql-container.ql-snow {
+	border: 1px solid #30363d;
+}
+
+.ql-toolbar.ql-snow {
+	border: 1px solid #30363d;
+	background-color: #0d1117;
+}
+
+/* Change toolbar background color to blue */
+
+.spanblock {
+	background-color: "black";
+	border: 1px solid #ccc;
+	line-height: 19px;
+	padding: 6px 10px;
+	border-radius: 3px;
+	margin: 15px 0;
+}
+.ql-container {
+	background-color: #010409;
+	height: 700px;
+}
